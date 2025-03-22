@@ -1,0 +1,221 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Armchair",
+      "description": "Modern Comfortable Chair",
+      "textureColor": "White",
+      "price": 95.95,
+      "stock": 94,
+      "model3d": "doris_armchair_shetland_",
+      "category": "Chairs",
+      "colors": [
+        "Green",
+        "Red",
+        "Blue"
+      ],
+      "images": [
+        "assets/images/armchair7.png",
+        "assets/images/armchair_green_-60.png",
+        "assets/images/armchair_green_-40.png",
+        "assets/images/armchair_green_-20.png",
+        "assets/images/armchair_green_0.png",
+        "assets/images/armchair_green_20.png",
+        "assets/images/armchair_green_40.png",
+        "assets/images/armchair_green_60.png",
+        "assets/images/armchair_blue_-60.png",
+        "assets/images/armchair_blue_-40.png",
+        "assets/images/armchair_blue_-20.png",
+        "assets/images/armchair_blue_0.png",
+        "assets/images/armchair_blue_20.png",
+        "assets/images/armchair_blue_40.png",
+        "assets/images/armchair_blue_60.png",
+        "assets/images/armchair_red_-60.png",
+        "assets/images/armchair_red_-40.png",
+        "assets/images/armchair_red_-20.png",
+        "assets/images/armchair_red_0.png",
+        "assets/images/armchair_red_20.png",
+        "assets/images/armchair_red_40.png",
+        "assets/images/armchair_red_60.png"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Armchair 2",
+      "description": "Modern Comfortable Chair",
+      "textureColor": "Yellow",
+      "price": 105.09,
+      "stock": 100,
+      "model3d": "dylan_armchair_yolk_",
+      "category": "Chairs",
+      "colors": [
+        "Yellow",
+        "White",
+        "Green",
+        "Blue"
+      ],
+      "images": [
+        "assets/images/armchair9.png",
+        "https://dummyjson.com/image/i/products/1/2.jpg"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Armchair 3",
+      "description": "Modern Comfortable Chair",
+      "textureColor": "White",
+      "price": 102.89,
+      "stock": 98,
+      "model3d": "armchair_",
+      "category": "Chairs",
+      "colors": [
+        "Black",
+        "White",
+        "Blue"
+      ],
+      "images": [
+        "assets/images/armchair8.png",
+        "https://dummyjson.com/image/i/products/1/2.jpg"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Armchair 5",
+      "description": "Modern Comfortable Chair",
+      "textureColor": "Blue",
+      "price": 200.00,
+      "stock": 98,
+      "model3d": "lewis_muraba_-_lsc226_",
+      "category": "Chairs",
+      "colors": [
+        "Blue",
+        "Green",
+        "White"
+      ],
+      "images": [
+        "assets/images/armchair11.png",
+        "https://dummyjson.com/image/i/products/1/2.jpg"
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Armchair 6",
+      "description": "Modern Comfortable Sofa",
+      "textureColor": "Grey",
+      "price": 210.80,
+      "stock": 98,
+      "model3d": "lars_accent_chair_diego_",
+      "category": "Chairs",
+      "colors": [
+        "Grey",
+        "Blue",
+        "Red",
+        "Yellow"
+      ],
+      "images": [
+        "assets/images/armchair12.png",
+        "https://dummyjson.com/image/i/products/1/2.jpg"
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Sofa 1",
+      "description": "Modern Comfortable Sofa",
+      "textureColor": "Blue",
+      "price": 180.43,
+      "stock": 98,
+      "model3d": "sofa_-_ikea_nockeby_",
+      "category": "Sofa",
+      "colors": [
+        "BlueGrey",
+        "Green",
+        "Blue",
+        "Yellow"
+      ],
+      "images": [
+        "assets/images/sofa1.png",
+        "https://dummyjson.com/image/i/products/1/2.jpg"
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Sofa 2",
+      "description": "Modern Comfortable Sofa",
+      "textureColor": "White",
+      "price": 156.54,
+      "stock": 98,
+      "model3d": "sofa_",
+      "category": "Sofa",
+      "colors": [
+        "White",
+        "Green",
+        "Blue",
+        "Yellow"
+      ],
+      "images": [
+        "assets/images/sofa2.png",
+        "https://dummyjson.com/image/i/products/1/2.jpg"
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Sofa 3",
+      "description": "Modern Comfortable Sofa",
+      "textureColor": "Brown",
+      "price": 250.00,
+      "stock": 98,
+      "category": "Sofa",
+      "model3d": "low_poly_old_sofa_with_bake_normal_",
+      "colors": [
+        "Brown",
+        "Green",
+        "Blue",
+        "Yellow"
+      ],
+      "images": [
+        "assets/images/sofa3.png",
+        "https://dummyjson.com/image/i/products/1/2.jpg"
+      ]
+    },
+    {
+      "id": 9,
+      "title": "Sofa 4",
+      "description": "Modern Comfortable Sofa",
+      "textureColor": "White",
+      "price": 240.10,
+      "stock": 98,
+      "model3d": "sofa_couch_",
+      "category": "Sofa",
+      "colors": [
+        "Red",
+        "Green",
+        "Blue",
+        "Yellow"
+      ],
+      "images": [
+        "assets/images/sofa4.png",
+        "https://dummyjson.com/image/i/products/1/2.jpg"
+      ]
+    },
+    {
+      "id": 10,
+      "title": "Sofa 5",
+      "description": "Modern Comfortable Sofa",
+      "textureColor": "Pink",
+      "price": 240.10,
+      "stock": 98,
+      "model3d": "arno_blush_velvet_sofa_hp_",
+      "category": "Sofa",
+      "colors": [
+        "Pink",
+        "Green",
+        "Blue",
+        "Yellow"
+      ],
+      "images": [
+        "assets/images/sofa5.png",
+        "https://dummyjson.com/image/i/products/1/2.jpg"
+      ]
+    }
+  ]
+}
